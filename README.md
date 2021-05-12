@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 <!-- 20210512开始统计visit-->
 <br />
 
-[![Chongqing's github stats](https://github-readme-stats.vercel.app/api?username=HuangCongQing "![HuangCongQing's github stats")](https://github.com/HuangCongQing/github-readme-stats) 
+[![Chongqing's github stats](https://github-readme-stats.vercel.app/api?username=HuangCongQing "![HuangCongQing's github stats")](https://github.com/HuangCongQing/) 
 <!--修改HuangCongQing-->
