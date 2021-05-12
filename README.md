@@ -29,8 +29,9 @@ Here are some ideas to get you started:
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=HuangCongQing.HuangCongQing)   <!--修改HuangCongQing-->
 
 <br />
 
-[![Chongqing's github stats](https://github-readme-stats.vercel.app/api?username=HuangCongQing "![HuangCongQing's github stats")](https://github.com/HuangCongQing/github-readme-stats)
+[![Chongqing's github stats](https://github-readme-stats.vercel.app/api?username=HuangCongQing "![HuangCongQing's github stats")](https://github.com/HuangCongQing/github-readme-stats) 
+<!--修改HuangCongQing-->
