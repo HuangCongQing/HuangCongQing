@@ -2,8 +2,8 @@
 
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> -->
 
-自动驾驶/点云视觉感知/深度学习 | 公众号『双愚』| [知乎](https://www.zhihu.com/people/huang-zhong-qing-) 
-微信公众号：**【双愚】**（huang_chongqing） 聊科研技术,谈人生思考,欢迎关注~
+自动驾驶/点云视觉感知/深度学习 | 公众号**[『双愚』](https://user-images.githubusercontent.com/20675770/169835565-08fc9a49-573e-478a-84fc-d9b7c5fa27ff.png)**| [知乎](https://www.zhihu.com/people/huang-zhong-qing-) 
+微信公众号：**【双愚】**（huang_chongqing） 聊科研技术,谈人生思考,欢迎关注
 
 如有疑问，微信：hcq1756260160
 
