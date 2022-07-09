@@ -3,8 +3,7 @@
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> -->
 
 自动驾驶/点云视觉感知/深度学习 | 公众号『双愚』| [知乎](https://www.zhihu.com/people/huang-zhong-qing-)
- https://github.com/HuangCongQing
- 
+
  
 微信公众号：**【双愚】**（huang_chongqing） 聊科研技术,谈人生思考,欢迎关注~
 
@@ -17,6 +16,8 @@
 
  
 如有疑问，微信：hcq1756260160
+
+ https://github.com/HuangCongQing
 
 <!--
 **HuangCongQing/HuangCongQing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
