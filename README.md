@@ -5,7 +5,7 @@
 自动驾驶/点云视觉感知/深度学习 | 公众号[**『双愚』**](https://user-images.githubusercontent.com/20675770/169835565-08fc9a49-573e-478a-84fc-d9b7c5fa27ff.png)| [知乎](https://www.zhihu.com/people/huang-zhong-qing-) 
 聊科研技术,谈人生思考,欢迎关注
 
-如有疑问，微信：hcq1756260160
+如有疑问，微信：shuangyu_ai
 
 Plus: 本人创建星球 **【自动驾驶感知(PCL/ROS+DL)】** 专注于自动驾驶感知领域，包括传统方法(PCL点云库,ROS)和深度学习（目标检测+语义分割）方法。同时涉及Apollo，Autoware(基于ros2)，BEV感知，三维重建，SLAM(视觉+激光雷达) ，模型压缩（蒸馏+剪枝+量化等），自动驾驶模拟仿真，自动驾驶数据集标注&数据闭环等自动驾驶全栈技术，欢迎扫码二维码加入，一起登顶自动驾驶的高峰！
 
