@@ -7,14 +7,16 @@
 
 如有疑问，微信：shuangyu_ai
 
-Plus: 本人创建星球 **【自动驾驶感知(PCL/ROS+DL)】** 专注于自动驾驶感知领域，包括传统方法(PCL点云库,ROS)和深度学习（目标检测+语义分割）方法。同时涉及Apollo，Autoware(基于ros2)，BEV感知，三维重建，SLAM(视觉+激光雷达) ，模型压缩（蒸馏+剪枝+量化等），自动驾驶模拟仿真，自动驾驶数据集标注&数据闭环等自动驾驶全栈技术，欢迎扫码二维码加入，一起登顶自动驾驶的高峰！
+Plus: 本人创建知识星球 **【自动驾驶感知(PCL/ROS+DL)】** 专注于自动驾驶感知领域，包括传统方法(PCL点云库,ROS)和深度学习（目标检测+语义分割）方法。同时涉及Apollo，Autoware(基于ros2)，BEV感知，三维重建，SLAM(视觉+激光雷达) ，模型压缩（蒸馏+剪枝+量化等），自动驾驶模拟仿真，自动驾驶数据集标注&数据闭环等自动驾驶全栈技术，欢迎扫码二维码加入，一起登顶自动驾驶的高峰！
 
 更多自动驾驶相关交流群，欢迎扫码加入：[自动驾驶感知(PCL/ROS+DL)：技术交流群汇总(新版)](https://mp.weixin.qq.com/s?__biz=MzI4OTY1MjA3Mg==&mid=2247486575&idx=1&sn=3145b7a5e9dda45595e1b51aa7e45171&chksm=ec2aa068db5d297efec6ba982d6a73d2170ef09a01130b7f44819b01de46b30f13644347dbf2#rd)
 
-![image](https://github.com/HuangCongQing/HuangCongQing/assets/20675770/304e0c4d-89d2-4cee-a2a9-3c690611c9d9)
+<img src="https://github.com/HuangCongQing/HuangCongQing/assets/20675770/304e0c4d-89d2-4cee-a2a9-3c690611c9d9" width="500px">
 
 
 <!--
+![知识星球自动驾驶感知(PCL/ROS+DL)](https://github.com/HuangCongQing/HuangCongQing/assets/20675770/304e0c4d-89d2-4cee-a2a9-3c690611c9d9)
+
 **HuangCongQing/HuangCongQing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -45,9 +47,6 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.glitch.me/badge?page_id=HuangCongQing.HuangCongQing)   <!--修改HuangCongQing-->
 <!-- 20210512开始统计visit-->
-<br />
-
-[![Chongqing's github stats](https://github-readme-stats.vercel.app/api?username=HuangCongQing "![HuangCongQing's github stats")](https://github.com/HuangCongQing/) 
 
 推荐课程（**可以扫下图二维码咨询试听~**）：
 
@@ -56,6 +55,7 @@ Here are some ideas to get you started:
 | ![130107c0b11319651b58aa1c274aad9.jpg](https://cdn.nlark.com/yuque/0/2023/jpeg/232596/1692382676708-e9616be0-8296-4176-aa35-14bc51c47982.jpeg#averageHue=%23e5d2bc&clientId=uc936c95e-53fd-4&from=paste&height=1745&id=u5baE&originHeight=2356&originWidth=1080&originalType=binary&ratio=1.3499999046325684&rotation=0&showTitle=false&size=1051836&status=done&style=none&taskId=uc4d2e3ee-24a9-4dcd-86f7-96804fefcf2&title=&width=800.0000565140375) | ![c78c085fc80aaee67e0939bef5f2a27.jpg](https://cdn.nlark.com/yuque/0/2023/jpeg/232596/1692382690551-0c464518-8242-479b-aa8d-32a23a8531ca.jpeg#averageHue=%23cce5f3&clientId=uc936c95e-53fd-4&from=paste&height=1463&id=WqHA5&originHeight=1975&originWidth=1080&originalType=binary&ratio=1.3499999046325684&rotation=0&showTitle=false&size=280472&status=done&style=none&taskId=u0f97610f-e29b-4145-874b-aee0fa8c5a0&title=&width=800.0000565140375) | ![-891340124.jpg](https://cdn.nlark.com/yuque/0/2023/jpeg/232596/1695532206877-d61563e1-29e0-4013-9a0b-d4e91efcf488.jpeg#averageHue=%2366aea1&from=url&id=uXP1I&originHeight=2416&originWidth=1080&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1200315&status=done&style=none&title=) | ![-891191079.png](https://cdn.nlark.com/yuque/0/2023/png/232596/1695532209501-96b443e8-05f3-44d0-98f0-93dd35f0783b.png#averageHue=%23eff0f0&from=url&id=fAhgn&originHeight=2774&originWidth=1080&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1433511&status=done&style=none&title=) |
 
 
+[![Chongqing's github stats](https://github-readme-stats.vercel.app/api?username=HuangCongQing "![HuangCongQing's github stats")](https://github.com/HuangCongQing/) 
 
 
 <!--修改HuangCongQing
