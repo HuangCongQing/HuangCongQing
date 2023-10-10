@@ -48,11 +48,17 @@ Here are some ideas to get you started:
 <br />
 
 [![Chongqing's github stats](https://github-readme-stats.vercel.app/api?username=HuangCongQing "![HuangCongQing's github stats")](https://github.com/HuangCongQing/) 
+
+推荐课程（**可以扫下图二维码咨询试听~**）：
+
+| 课程1：自动驾驶与机器人中的SLAM技术 | 课程2：三维点云处理 | 课程3 深度神经网络加速:cuDNN与TensorRT| 课程4：C++基础与深度解析 |
+| --- | --- | --- | --- |
+| ![130107c0b11319651b58aa1c274aad9.jpg](https://cdn.nlark.com/yuque/0/2023/jpeg/232596/1692382676708-e9616be0-8296-4176-aa35-14bc51c47982.jpeg#averageHue=%23e5d2bc&clientId=uc936c95e-53fd-4&from=paste&height=1745&id=u5baE&originHeight=2356&originWidth=1080&originalType=binary&ratio=1.3499999046325684&rotation=0&showTitle=false&size=1051836&status=done&style=none&taskId=uc4d2e3ee-24a9-4dcd-86f7-96804fefcf2&title=&width=800.0000565140375) | ![c78c085fc80aaee67e0939bef5f2a27.jpg](https://cdn.nlark.com/yuque/0/2023/jpeg/232596/1692382690551-0c464518-8242-479b-aa8d-32a23a8531ca.jpeg#averageHue=%23cce5f3&clientId=uc936c95e-53fd-4&from=paste&height=1463&id=WqHA5&originHeight=1975&originWidth=1080&originalType=binary&ratio=1.3499999046325684&rotation=0&showTitle=false&size=280472&status=done&style=none&taskId=u0f97610f-e29b-4145-874b-aee0fa8c5a0&title=&width=800.0000565140375) | ![-891340124.jpg](https://cdn.nlark.com/yuque/0/2023/jpeg/232596/1695532206877-d61563e1-29e0-4013-9a0b-d4e91efcf488.jpeg#averageHue=%2366aea1&from=url&id=uXP1I&originHeight=2416&originWidth=1080&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1200315&status=done&style=none&title=) | ![-891191079.png](https://cdn.nlark.com/yuque/0/2023/png/232596/1695532209501-96b443e8-05f3-44d0-98f0-93dd35f0783b.png#averageHue=%23eff0f0&from=url&id=fAhgn&originHeight=2774&originWidth=1080&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1433511&status=done&style=none&title=) |
+
+
+
+
 <!--修改HuangCongQing
-
-
-
-
 
 
 ![image](https://user-images.githubusercontent.com/20675770/169835565-08fc9a49-573e-478a-84fc-d9b7c5fa27ff.png)
